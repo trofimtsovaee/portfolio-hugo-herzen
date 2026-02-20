@@ -1,4 +1,4 @@
-baseURL = 'https://trofimtsovaee_portfolio_herzen.github.io/'
+baseURL = "https://trofimtsovaee.github.io/portfolio-hugo-herzen"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
