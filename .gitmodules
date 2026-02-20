@@ -1,4 +1,0 @@
-[submodule "themes/loficode"]
-	path = themes/loficode
-	url = https://github.com/meimakes/loficode-hugo-theme.git
-	branch = main
